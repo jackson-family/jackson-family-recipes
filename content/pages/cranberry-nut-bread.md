@@ -1,4 +1,4 @@
-* Cranberry-Nut Bread
+title: Cranberry-Nut Bread
 
 Miriam Loo
 
