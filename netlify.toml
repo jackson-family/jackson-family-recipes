@@ -8,6 +8,7 @@ for = "/*"
 [headers.values]
   Content-Security-Policy = "base-uri 'none'; default-src 'none'; form-action 'none'; frame-ancestors 'none'; style-src 'self'"
           Referrer-Policy = "same-origin"
+                   Server = ""
 Strict-Transport-Security = "max-age=15768000"
    X-Content-Type-Options = "nosniff"
           X-Frame-Options = "DENY"
