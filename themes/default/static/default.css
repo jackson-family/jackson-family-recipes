@@ -1,0 +1,16 @@
+body {
+    background-color: #eeeeee;
+    color: #333333;
+    font-family: Cambria, Georgia, sans-serif;
+    line-height: 1.5;
+    padding: 1em;
+}
+
+header, main, footer {
+    margin: 0 auto;
+    max-width: 50em;
+}
+
+li {
+    list-style-type: none;
+}

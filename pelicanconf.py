@@ -1,26 +1,22 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-AUTHOR = 'William Jackson'
-SITENAME = 'Jackson Family Recipes'
-SITEURL = ''
-
-PATH = 'content'
-
-TIMEZONE = 'America/Chicago'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+ARCHIVES_SAVE_AS = ''
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
-
-DEFAULT_PAGINATION = False
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+AUTHORS_SAVE_AS = ''
+BIND = '0.0.0.0'
+CACHE_CONTENT = True
+CATEGORIES_SAVE_AS = ''
+CATEGORY_FEED_ATOM = None
+DEFAULT_LANG = 'en'
+DELETE_OUTPUT_DIRECTORY = True
+FEED_ALL_ATOM = None
+LOAD_CONTENT_CACHE = True
+PAGE_SAVE_AS = 'recipes/{slug}.html'
+PAGE_URL = 'recipes/{slug}'
+PATH = 'content'
+# RELATIVE_URLS = True
+SITENAME = 'Jackson Family Recipes'
+# SITEURL = ''
+TAGS_SAVE_AS = ''
+THEME = 'themes/default'
+TIMEZONE = 'America/Chicago'
+TRANSLATION_FEED_ATOM = None
