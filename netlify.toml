@@ -6,7 +6,7 @@ publish = "output"
 for = "/*"
 
 [headers.values]
-  Content-Security-Policy = "default-src 'none'; style-src 'self'"
+  Content-Security-Policy = "base-uri 'none'; default-src 'none'; form-action 'none'; frame-ancestors 'none'; style-src 'self'"
           Referrer-Policy = "same-origin"
 Strict-Transport-Security = "max-age=15768000"
    X-Content-Type-Options = "nosniff"
