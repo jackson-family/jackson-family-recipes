@@ -4,12 +4,12 @@ Makes 2 quart
 
 Ingredients
 
-6 cups water
-8 cups white sugar
-1 cup brown sugar
-4 Tbs light corn syrup
-2 tsp vanilla flavor
-2 tsp maple flavor
+* 6 cups water
+* 8 cups white sugar
+* 1 cup brown sugar
+* 4 Tbs light corn syrup
+* 2 tsp vanilla flavor
+* 2 tsp maple flavor
 
 Directions
 

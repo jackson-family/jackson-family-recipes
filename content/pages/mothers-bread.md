@@ -2,15 +2,25 @@ title: Mother's Bread
 
 LaRue Phillips
 
-For 6 loaves    	For 4 loaves
+For 6 loaves
 
-6 cups milk	4 cups milk
-4 Tbs shortening	3 Tbs shortening
-4 Tbs yeast	3 Tbs yeast
-1 cup warm water	3/4 cup warm water
-6 tsp salt	4 tsp salt
-1 cup sugar	3/4 cup sugar
-12+ cups flour	9+ cups flour
+* 6 cups milk
+* 4 Tbs shortening
+* 4 Tbs yeast
+* 1 cup warm water
+* 6 tsp salt
+* 1 cup sugar
+* 12+ cups flour
+
+For 4 loaves
+
+* 4 cups milk
+* 3 Tbs shortening
+* 3 Tbs yeast
+* 3/4 cup warm water
+* 4 tsp salt
+* 3/4 cup sugar
+* 9+ cups flour
 
 Scald milk.  When milk is hot add shortening.  Put yeast and water in a small bowl.
 

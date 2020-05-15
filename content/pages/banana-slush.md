@@ -2,15 +2,17 @@ title: Banana Slush
 
 Ellen Jackson
 
-1 cup sugar 
-2-3/4 cups water
+* 1 cup sugar 
+* 2-3/4 cups water
+
 Stir together until sugar is dissolved.
 
 Combine in blender until smooth:
-2 ripe bananas, cut up
-1-1/2 cups pineapple juice
-1 6-oz can frozen orange juice concentrate
-2 Tbs lemon juice
+
+* 2 ripe bananas, cut up
+* 1-1/2 cups pineapple juice
+* 1 6-oz can frozen orange juice concentrate
+* 2 Tbs lemon juice
 
 Add to sugar mixture with 1-1/2 cups more pineapple juice.  Pour into a container and freeze.
 

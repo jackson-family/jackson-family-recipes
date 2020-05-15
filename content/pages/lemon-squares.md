@@ -2,11 +2,11 @@ title: Lemon Squares
 
 Florence Peterson
 
-1/2 cup soft butter
-1/2 cup soft margarine
-2 cups flour
-1-1/2 cups powdered sugar
-dash salt
+* 1/2 cup soft butter
+* 1/2 cup soft margarine
+* 2 cups flour
+* 1-1/2 cups powdered sugar
+* dash salt
 
 Combine, mix well, pat into 9"x15" pan.  Bake crust at 350° for 15 min.
 

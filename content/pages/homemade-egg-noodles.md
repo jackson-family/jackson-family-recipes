@@ -3,9 +3,10 @@ title: Homemade Egg Noodles
 Ellen Jackson
 
 Beat together in a small bowl:
-1 egg
-2 Tbs milk
-1/4 tsp salt
+
+* 1 egg
+* 2 Tbs milk
+* 1/4 tsp salt
 
 Add 1 cup flour.
 

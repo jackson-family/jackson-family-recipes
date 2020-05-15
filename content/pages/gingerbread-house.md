@@ -2,11 +2,15 @@ title: Gingerbread House
 
 Rose Mary D'Alatri
 
-2/3 cup brown sugar	1/2 tsp baking soda
-2/3 cup honey or molasses	2/3 cup margarine
-1 tsp ginger	1 egg
-1 tsp ground cloves	5 cups flour
-1 tsp cinnamon
+* 2/3 cup brown sugar
+* 1/2 tsp baking soda
+* 2/3 cup honey or molasses
+* 2/3 cup margarine
+* 1 tsp ginger
+* 1 egg
+* 1 tsp ground cloves
+* 5 cups flour
+* 1 tsp cinnamon
 
 Copy pattern pieces on another paper and cut each piece out.
 
@@ -32,15 +36,19 @@ Assemble the house on foil covered cardboard big enough for both the house and a
 
 Candy suggestions:
 
-gum drops	red hots
-life savers	Smarties
-M&M's	licorice (string or pieces)
-candy corn	jelly beans
+* gum drops
+* red hots
+* life savers
+* Smarties
+* M&M's
+* licorice (string or pieces)
+* candy corn
+* jelly beans
 
-Small Tootsie Rolls make good woodpiles and fences.
-Small suckers can be trees or lamp posts.
-Candy canes look cute along roof lines.
-Large marshmallows make cute snow men.
+* Small Tootsie Rolls make good woodpiles and fences.
+* Small suckers can be trees or lamp posts.
+* Candy canes look cute along roof lines.
+* Large marshmallows make cute snow men.
 
 The easiest and least expensive source of candy variety is from trick or treat bags.  Children are usually happy to contribute just about anything for a gingerbread house.
 

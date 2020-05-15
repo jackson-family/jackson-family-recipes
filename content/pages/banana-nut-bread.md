@@ -4,15 +4,15 @@ LaRue Phillips
 
 Ingredients
 
-1/2 cup shortening
-1/2 cup packed brown sugar
-1/2 cup white sugar
-2 eggs
-1 cup mashed bananas (approx 2 large)
-1-1/2 cups flour
-1 tsp salt
-1 tsp soda
-1/2 cup chopped walnuts
+* 1/2 cup shortening
+* 1/2 cup packed brown sugar
+* 1/2 cup white sugar
+* 2 eggs
+* 1 cup mashed bananas (approx 2 large)
+* 1-1/2 cups flour
+* 1 tsp salt
+* 1 tsp soda
+* 1/2 cup chopped walnuts
 
 Directions
 

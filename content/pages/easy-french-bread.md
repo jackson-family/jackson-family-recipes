@@ -5,15 +5,16 @@ Carolyn Scott
 Directions
 
 In a large mixing bowl:
-3 cups flour
-3 Tbs sugar
-2 Tbs yeast (2 pkgs)
-1 Tbs salt
 
-2-1/2 cups HOT tap water
+* 3 cups flour
+* 3 Tbs sugar
+* 2 Tbs yeast (2 pkgs)
+* 1 Tbs salt
+* 2-1/2 cups HOT tap water
 
 Mix together and stir well.  Add:
-1/3 cup vegetable oil, stir well.
+
+* 1/3 cup vegetable oil, stir well.
 
 Add: 3 cups more flour
 (DO NOT STIR)

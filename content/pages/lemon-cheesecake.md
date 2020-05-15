@@ -2,12 +2,12 @@ title: Lemon Cheesecake
 
 Rene Bowen
 
-1 cup vanilla wafer crushed
-1 8-oz pkg cream cheese
-1 can Eagle brand milk
-2 Tbs lemon rind from 3-4 lemons
-7 Tbs lemon juice from real lemons
-1/2 pint whipped cream
+* 1 cup vanilla wafer crushed
+* 1 8-oz pkg cream cheese
+* 1 can Eagle brand milk
+* 2 Tbs lemon rind from 3-4 lemons
+* 7 Tbs lemon juice from real lemons
+* 1/2 pint whipped cream
 
 Press crumbs into 10" buttered pie pan.
 

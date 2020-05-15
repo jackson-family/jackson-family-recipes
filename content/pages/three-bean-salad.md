@@ -1,24 +1,25 @@
-title: Three  Bean Salad
+title: Three Bean Salad
 
 Ellen Jackson
 
-1 16 oz can green beans
-1 16 oz can kidney beans
-1 16 oz can yellow or white beans
-1 green pepper chopped 
-1 medium onion chopped
+* 1 16 oz can green beans
+* 1 16 oz can kidney beans
+* 1 16 oz can yellow or white beans
+* 1 green pepper chopped 
+* 1 medium onion chopped
 
 Drain all beans.  Put in large bowl.
 
 Mix the following in a small bowl.
-1/2 cup vinegar
-1/2 cup oil 
-1/2 cup sugar
-1 tsp salt
-1/2 tsp dry mustard
-1/2 tsp basil
-2 Tbs dry parsley
-1/8 tsp black pepper
+
+* 1/2 cup vinegar
+* 1/2 cup oil 
+* 1/2 cup sugar
+* 1 tsp salt
+* 1/2 tsp dry mustard
+* 1/2 tsp basil
+* 2 Tbs dry parsley
+* 1/8 tsp black pepper
 
 Pour over beans.  Cover and let stand overnight in refrigerator.
 
