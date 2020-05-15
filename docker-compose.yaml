@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  quickstart:
+    image: williamjackson/pelican:4.2.0
+    volumes:
+      - D:/projects/jackson-family-recipes:/pelican-site
