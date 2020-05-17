@@ -14,3 +14,16 @@ header, main, footer {
 li {
     list-style-type: none;
 }
+
+hr {
+    border: none;
+    height: 1px;
+}
+
+a {
+    color: #135931;
+}
+
+a:visited {
+    color: #81bf75
+}
