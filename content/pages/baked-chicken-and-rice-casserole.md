@@ -1,4 +1,5 @@
 title: Baked Chicken & Rice Casserole
+tags: main dishes
 
 LaRue Phillips 
 

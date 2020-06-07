@@ -1,4 +1,5 @@
 title: Cranberry-Nut Bread
+tags: breads
 
 Miriam Loo
 

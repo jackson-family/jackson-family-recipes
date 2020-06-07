@@ -1,4 +1,5 @@
 title: Hamburger and Potato Casserole
+tags: main dishes
 
 Ellen Jackson
 

@@ -1,4 +1,5 @@
 title: Pumpkin Spice Cake
+tags: desserts
 
 Ellen Jackson
 

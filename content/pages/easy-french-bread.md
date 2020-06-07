@@ -1,4 +1,5 @@
 title: Easy French Bread
+tags: breads
 
 Carolyn Scott
 

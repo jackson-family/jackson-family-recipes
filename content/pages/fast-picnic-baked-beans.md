@@ -1,4 +1,5 @@
 title: Fast Picnic Baked Beans
+tags: main dishes
 
 (for a large group)
 

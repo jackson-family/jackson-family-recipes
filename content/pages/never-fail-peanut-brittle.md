@@ -1,4 +1,5 @@
 title: Never-Fail Peanut Brittle
+tags: sweet treats
 
 Wilma Petersen
 

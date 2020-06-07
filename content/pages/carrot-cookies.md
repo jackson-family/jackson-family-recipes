@@ -1,4 +1,5 @@
 title: Carrot Cookies
+tags: sweet treats
 
 Lela Kovalenko
 

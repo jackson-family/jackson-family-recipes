@@ -1,4 +1,5 @@
 title: Taco Soup
+tags: main dishes
 
 Thearsa Baldwin
 

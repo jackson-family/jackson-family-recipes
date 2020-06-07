@@ -1,4 +1,5 @@
 title: Blonde Brownies
+tags: sweet treats
 
 Baker's Chocolate Chips
 

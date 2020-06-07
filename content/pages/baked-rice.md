@@ -1,4 +1,5 @@
 title: Baked Rice
+tags: main dishes
 
 Mary Jackson
 

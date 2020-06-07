@@ -1,4 +1,5 @@
 title: Cranberry Jello Salad
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

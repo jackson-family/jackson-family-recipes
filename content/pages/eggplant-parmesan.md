@@ -1,4 +1,5 @@
 title: Egg Plant Parmesan
+tags: main dishes
 
 Ellen Jackson
 

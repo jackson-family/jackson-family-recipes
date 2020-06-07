@@ -1,4 +1,5 @@
 title: Dried Beans
+tags: main dishes
 
 Instructions for preparing and using.
 

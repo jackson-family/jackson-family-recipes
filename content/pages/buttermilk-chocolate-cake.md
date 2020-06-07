@@ -1,4 +1,5 @@
 title: Buttermilk Chocolate Cake
+tags: desserts
 
 LaRue Phillips
 

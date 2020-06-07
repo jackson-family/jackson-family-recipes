@@ -1,4 +1,5 @@
 title: Cheese Ball
+tags: salads/vegetables/appetizers
 
 * 8 oz. grated mild cheddar cheese
 * 8 oz. cream cheese

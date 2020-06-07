@@ -1,4 +1,5 @@
 title: Chinese Chicken Coleslaw
+tags: salads/vegetables/appetizers
 
 Sheila Eyers
 

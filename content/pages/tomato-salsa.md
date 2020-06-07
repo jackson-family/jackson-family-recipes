@@ -1,4 +1,5 @@
 title: Tomato Salsa
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

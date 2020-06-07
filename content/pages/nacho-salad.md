@@ -1,4 +1,5 @@
 title: Nacho Salad
+tags: salads/vegetables/appetizers
 
 Helen Fowles
 

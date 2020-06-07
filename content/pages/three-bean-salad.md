@@ -1,4 +1,5 @@
 title: Three Bean Salad
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

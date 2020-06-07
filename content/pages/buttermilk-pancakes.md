@@ -1,4 +1,5 @@
 title: Buttermilk Pancakes
+tags: breads
 
 Directions
 

@@ -1,4 +1,5 @@
 title: Tuna Roll
+tags: main dishes
 
 * 1 egg beaten
 * 2 6-oz cans tuna drained and flaked

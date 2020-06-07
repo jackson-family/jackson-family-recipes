@@ -1,4 +1,5 @@
 title: Tabbouleh (Cracked Wheat Salad)
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

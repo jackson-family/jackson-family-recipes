@@ -1,4 +1,5 @@
 title: Caramel Corn (Microwave)
+tags: sweet treats
 
 Julia Garrett
 

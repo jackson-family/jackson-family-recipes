@@ -1,4 +1,5 @@
 title: Gingerbread House
+tags: sweet treats
 
 Rose Mary D'Alatri
 

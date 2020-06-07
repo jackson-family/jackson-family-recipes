@@ -1,4 +1,5 @@
 title: Pumpkin Bread
+tags: breads
 
 Linda Hamilton
 

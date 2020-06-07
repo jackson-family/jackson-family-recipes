@@ -1,4 +1,5 @@
 title: Pistachio Salad
+tags: salads/vegetables/appetizers
 
 LaRue Phillips
 

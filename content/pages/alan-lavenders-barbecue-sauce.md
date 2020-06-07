@@ -1,4 +1,5 @@
 title: Alan Lavender's Barbeque Sauce
+tags: main dishes
 
 * 5 cups ketchup
 * 1-1/2 cup molasses (or honey)

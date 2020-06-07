@@ -1,4 +1,5 @@
 title: Mrs. Fields Cookies
+tags: sweet treats
 
 Author Unknown
 

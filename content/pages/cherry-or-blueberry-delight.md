@@ -1,4 +1,5 @@
 title: Cherry or Blueberry Delight
+tags: desserts
 
 LaRue Phillips
 

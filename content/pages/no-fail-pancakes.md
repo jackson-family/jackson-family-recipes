@@ -1,4 +1,5 @@
 title: No-Fail Pancakes
+tags: breads
 
 Ellen Jackson
 

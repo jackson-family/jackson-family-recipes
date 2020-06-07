@@ -1,4 +1,5 @@
 title: Chicken Enchilada
+tags: main dishes
 
 Linda Coplin
 

@@ -1,4 +1,5 @@
 title: Fruit 'n Yogurt Pie
+tags: desserts
 
 Ellen Jackson
 

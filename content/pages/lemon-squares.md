@@ -1,4 +1,5 @@
 title: Lemon Squares
+tags: sweet treats
 
 Florence Peterson
 

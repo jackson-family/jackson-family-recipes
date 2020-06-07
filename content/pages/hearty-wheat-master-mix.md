@@ -1,4 +1,5 @@
 title: Hearty Wheat Master Mix
+tags: breads
 
 Yields 12-14 cups
 

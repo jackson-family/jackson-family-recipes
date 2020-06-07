@@ -1,4 +1,5 @@
 title: Potato Salad
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

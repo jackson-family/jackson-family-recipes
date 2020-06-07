@@ -1,4 +1,5 @@
 title: Yummy Potatoes Casserole
+tags: main dishes
 
 LaRue Phillips
 

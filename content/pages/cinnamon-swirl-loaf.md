@@ -1,4 +1,5 @@
 title: Cinnamon Swirl Loaf
+tags: breads
 
 Tupperware
 

@@ -1,4 +1,5 @@
 title: Tuna Turnovers
+tags: main dishes
 
 Cut the dough into small rectangles and put about 2-3 Tbs of tuna on half the piece.  Fold in half and seal edges.
 

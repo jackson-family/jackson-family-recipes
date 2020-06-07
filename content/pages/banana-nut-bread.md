@@ -1,4 +1,5 @@
 title: Banana Nut Bread
+tags: breads
 
 LaRue Phillips
 

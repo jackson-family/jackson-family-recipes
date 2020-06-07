@@ -1,4 +1,5 @@
 title: Tater Tot Casserole
+tags: main dishes
 
 From Barbara Newbold
 

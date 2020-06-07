@@ -1,4 +1,5 @@
 title: Soft-Cutout Cookie
+tags: sweet treats
 
 Carol Morgan
 

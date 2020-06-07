@@ -1,4 +1,5 @@
 title: Powdered Sugar Icing
+tags: breads
 
 (May also be used in cinnamon rolls)
 

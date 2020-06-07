@@ -1,4 +1,5 @@
 title: Tex-Mex Six Layer Dip
+tags: salads/vegetables/appetizers
 
 1.  (bottom) 1 can refried beans
 2.  Mix 2 mashed avocadoes, 2 Tsp lemon juice, salt and pepper

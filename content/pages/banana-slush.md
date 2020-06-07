@@ -1,4 +1,5 @@
 title: Banana Slush
+tags: sweet treats
 
 Ellen Jackson
 

@@ -1,4 +1,5 @@
 title: Sauerkraut Salad
+tags: salads/vegetables/appetizers
 
 Ellen Jackson
 

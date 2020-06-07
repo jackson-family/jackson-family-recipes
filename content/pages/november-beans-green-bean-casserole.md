@@ -1,4 +1,5 @@
 title: November Beans (Green Bean Casserole)
+tags: salads/vegetables/appetizers
 
 * 3/4 cup milk
 * 1/8 tsp pepper
