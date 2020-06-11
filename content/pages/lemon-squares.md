@@ -9,6 +9,13 @@ Florence Peterson
 * 1-1/2 cups powdered sugar
 * dash salt
 
-Combine, mix well, pat into 9"x15" pan.  Bake crust at 350° for 15 min.
+Combine, mix well, pat into 9"x15" pan. Bake crust at 350° for 15 min.
 
-2 cups sugar, 1/4 cup flour, 4 eggs beaten, 1/2 cup lemon juice.  Combine, mix well, pour over the baked crust.  Return to oven.  Dust with powdered sugar and cool in refrigerator.
+* 2 cups sugar
+* 1/4 cup flour
+* 4 eggs beaten
+* 1/2 cup lemon juice
+
+Combine, mix well, pour over the baked crust. Return to oven and bake until set, 20 to 40 minutes.
+
+Dust with powdered sugar and cool in refrigerator.
