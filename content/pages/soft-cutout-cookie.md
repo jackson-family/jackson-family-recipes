@@ -17,7 +17,7 @@ Sift together:
 * 4 to 4-1/2 cups flour
 * 1/2 tsp salt
 
-Add sifted to creamed alternately with 1 cup sour whip cream.  Chill.
+Add sifted to creamed alternately with 1 cup sour cream.  Chill.
 
 Roll out, cut, and bake at 350° for 8 min.  They don't brown.  Makes 2-3 doz.
 
