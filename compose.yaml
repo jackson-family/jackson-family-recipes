@@ -1,0 +1,17 @@
+services:
+  build:
+    image: ghcr.io/williamjacksn/pelican:4.8.0
+    init: true
+    volumes:
+      - ./:/pelican-site
+
+  dev:
+    command:
+      - --autoreload
+      - --listen
+    image: ghcr.io/williamjacksn/pelican:4.8.0
+    init: true
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/pelican-site
