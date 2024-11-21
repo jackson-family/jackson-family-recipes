@@ -1,4 +1,4 @@
-title: Two-ingredient Biscuits
+title: Two-Ingredient Biscuits
 tags: breads
 
 **Ingredients**
