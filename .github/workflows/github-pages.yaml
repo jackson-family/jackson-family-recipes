@@ -28,7 +28,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build site
-        run: docker compose run --no-TTY --user="$(id -u):$(id -g)" build
+        run: sh ci/build.sh
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
