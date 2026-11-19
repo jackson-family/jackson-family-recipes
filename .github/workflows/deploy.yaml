@@ -15,12 +15,11 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     permissions:
-      actions: read
       contents: read
       pages: write
       id-token: write
     environment:
-      name: github-pages
+      name: production
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Check out repository
